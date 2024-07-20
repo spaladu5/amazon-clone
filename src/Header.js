@@ -64,7 +64,4 @@ function Header() {
   );
 }
 
-//This is a comment to test git by testing
-
-
 export default Header;
